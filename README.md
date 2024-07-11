@@ -7,6 +7,7 @@ Create Database:
 Prepare CSV file
 Create tables in SQL
 Import CSV file into SQL
+
 Project Insights:
 Revenue increased by 28.8%
 Overall Revenue is 57M
